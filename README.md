@@ -1,6 +1,6 @@
 <img style="margin-top: 40px;" align="right" width="400px" src="https://media2.giphy.com/media/CjmvTCZf2U3p09Cn0h/giphy.gif?cid=ecf05e47neennkxkmp524gauoxtkxxbvtjgf44i37fdfya1g&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
+# Hey! Nice to see you. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
 
 Degree in Engineering, currently working towards becoming a Web Developer.
 I strive to develop in a dynamic and efficient manner, constantly seeking innovation and solutions.
