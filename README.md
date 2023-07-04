@@ -1,6 +1,6 @@
 <img style="margin-top: 40px;" align="right" width="400px" src="https://media0.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif?cid=ecf05e47rh8g4u6dmegrzkcu8xby6jyzzauj2bavmq3x1vnd&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
+# Hi there! <img src="https://giphy.com/gifs/leroypatterson-cat-glasses-CjmvTCZf2U3p09Cn0h" width="50px" />
 
 Degree in Engineering, currently working towards becoming a Web Developer.
 A curious and self-managed professional, proactive and easy to work with.
