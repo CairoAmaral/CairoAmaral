@@ -3,8 +3,8 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
 
 Degree in Engineering, currently working towards becoming a Web Developer.
-A curious and self-managed professional, proactive and easy to work with.
-I strive to develop in a dynamic and efficient manner, constantly seeking innovation and solutions. Passionate about 💻tech, 🎬art, 🎮video-games & ☕coffee
+I strive to develop in a dynamic and efficient manner, constantly seeking innovation and solutions.
+Passionate about 💻tech, 🎬art, 🎮video-games & ☕coffee
 <br>
 
 ### Find me at:
