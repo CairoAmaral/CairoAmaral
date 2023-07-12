@@ -4,7 +4,7 @@
 
 Degree in Engineering, currently working towards becoming a Web Developer.
 I strive to develop in a dynamic and efficient manner, constantly seeking innovation and solutions.
-Passionate about 💻tech, 🎬art, 🎮video-games & ☕coffee
+Passionate about 💻tech, 🎬art & 🎮video-games
 <br>
 
 ### Find me at:
